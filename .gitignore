@@ -1,0 +1,8 @@
+*.pyc
+*.swp
+*.ipynb
+
+figures/
+build/
+vl_interface.egg-info/
+dist/
